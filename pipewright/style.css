@@ -1,0 +1,3 @@
+@import url("../style.css");
+:root { --accent: #C2410C; }
+@media (prefers-color-scheme: dark) { :root { --accent: #FF9F0A; } }
